@@ -1,0 +1,4 @@
+.rotatedRing {
+    transform: rotate(18deg);
+    transform-origin: center;
+}
